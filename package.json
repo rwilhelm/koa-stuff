@@ -1,0 +1,20 @@
+{
+  "name": "koa-cors-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "koa": "^0.18.0",
+    "koa-cors": "^0.0.14",
+    "koa-jwt": "^0.1.7",
+    "koa-pg": "^0.24.0",
+    "pg": "^4.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
